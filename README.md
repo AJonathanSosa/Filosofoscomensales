@@ -11,7 +11,7 @@ Osorio Pérez Jael Orlando 201661971
 
 Sosa Barranco Alexis Jonathan 201618564
 
-#Filósofos
+# Filósofos
 
 Se agregan dos archivos referentes al algoritmo de los filósofos comensales.
 
